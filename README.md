@@ -3,13 +3,13 @@
 #Homework 1 for PUI2017
 
 # Creating the environmental variable
-1) In terminal open up `nano ~./bash_profile`
+1) In terminal open up ` ~./bash_profile`
 2) To type in the profile press `i`
 3) Type: `export PUI2017="/Users/emilypadvorac/Desktop/PUI2017"`
 4) Exit the profile by pressing `esc` and type in `:wq` to save and quit
 
 #Creating the alias to change directories
-1) In terminal open up `nano ~./bash_profile`
+1) In terminal open up ` ~./bash_profile`
 2) To type in the profile press `i`
 3) Type : `alias pui2017="cd $PUI2017"`
 4) Exit the profile by pressing `esc` and type in `:wq` to save and quit
