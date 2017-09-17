@@ -16,7 +16,7 @@
 
 ## bash_profile screenshot and terminal screenshot
 
-[url=http://postimg.org/image/5d125k2yt/][img]https://s26.postimg.org/5d125k2yt/ep2247_bash.png[/img][/url]
+<img width="568" alt="ep2247_bash" src="https://user-images.githubusercontent.com/31670055/30521878-303c522c-9b95-11e7-8565-e46c6d35b667.png">
 
-[url=http://postimg.org/image/plofra29x/][img]https://s26.postimg.org/plofra29x/ep2247_terminal.png[/img][/url]
+<img width="572" alt="ep2247_terminal" src="https://user-images.githubusercontent.com/31670055/30521879-303f283a-9b95-11e7-8672-abf6fd43604b.png">
 
