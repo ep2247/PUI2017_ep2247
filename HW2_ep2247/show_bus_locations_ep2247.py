@@ -32,4 +32,4 @@ print("Bus Line : " + all_bus[0]['MonitoredVehicleJourney']['PublishedLineName']
 print("Number of Active Buses: " + str(len(bus_position)))
 
 for i in range(len(bus_position)):
-    print("Bus " + str(i + 1) + " is at lattitude " + str(bus_position[i][0]) + " and longitude " + str(bus_position[i][1]))
+    print("Bus " + str(i + 1) + " is at latitude " + str(bus_position[i][0]) + " and longitude " + str(bus_position[i][1]))
