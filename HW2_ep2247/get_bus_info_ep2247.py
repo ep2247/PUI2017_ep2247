@@ -13,7 +13,7 @@ if not len(sys.argv) == 4:
 MTA_KEY = sys.argv[1]
 bus_line = sys.argv[2]
 fout = open(sys.argv[3],"w")
-fout.write("Latitude, Longitude, Stop Name, Stop Status")
+fout.write("Latitude, Longitude, Stop Name, Stop Status\n")
 
 url = "http://bustime.mta.info/api/siri/vehicle-monitoring.json?key=" + MTA_KEY +\
 "&VehicleMonitoringDetailLevel=calls&LineRef=" + bus_line
@@ -34,7 +34,9 @@ for i in range(len(all_bus)):
         Stop_Name = "N/A"
     elif len(Stop_Status) == 0:
         Stop_Status = "N/A"
+    
+    fout.write('{},{},{},{}\n'.format(Latitude,Longitude,Stop_Name,Stop_Status))
 
 #fout.write(str(Latitude) + str(Longitude) + str(Stop_Name) + str(Stop_Status \n))
 
-fout.write({},{},{},{},\n.format(Latitude,Longitude,Stop_Name,Stop_Status))
+#fout.write('{},{},{},{}\n'.format(Latitude,Longitude,Stop_Name,Stop_Status))
