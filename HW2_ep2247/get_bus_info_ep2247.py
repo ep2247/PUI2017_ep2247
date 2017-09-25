@@ -35,4 +35,6 @@ for i in range(len(all_bus)):
     elif len(Stop_Status) == 0:
         Stop_Status = "N/A"
 
-fout.write(str(Latitude) + str(Longitude) + str(Stop_Name) + str(Stop_Status))
+#fout.write(str(Latitude) + str(Longitude) + str(Stop_Name) + str(Stop_Status \n))
+
+fout.write({},{},{},{},\n.format(Latitude,Longitude,Stop_Name,Stop_Status))
