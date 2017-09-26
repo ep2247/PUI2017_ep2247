@@ -4,4 +4,4 @@ I worked by myself on both of these assignments
 
 Assignment 3:
 
-I recieved help from Dana Chermesh for finding a dataset to use.
+I recieved help from Dana Chermesh for finding/selecting a dataset to use on CUSP Urban Profiler.
