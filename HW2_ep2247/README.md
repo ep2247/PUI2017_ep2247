@@ -1,1 +1,7 @@
-Since DF was down, I went on NYC Open Data to find data to use for part 3 of HW2.
+Assignment 1 and Assignment 2:
+
+I worked by myself on both of these assignments
+
+Assignment 3:
+
+I recieved help from Dana Chermesh for finding a dataset to use.
