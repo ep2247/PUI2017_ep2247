@@ -1,4 +1,4 @@
-##  Lab3
+###  Lab3
 
 Formulate the Null hypothesis in words and in formulae for the 4 experiments below:
 
