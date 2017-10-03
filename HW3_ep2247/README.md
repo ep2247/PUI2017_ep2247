@@ -8,3 +8,9 @@ For assignment 1, I primarily worked with Rebecca Scheidegger
 Assignment 2:
 
 For assignment 2, I worked with Rebecca Scheidegger
+
+
+Assignment 3:
+
+For assignment 3, I worked with Rebecca Scheidegger, Dana, and Matt
+
