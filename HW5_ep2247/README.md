@@ -11,4 +11,4 @@
 
 
 ## Assignment 3:
-        For Assignment 3: I worked with
+        For Assignment 3: I worked with Rebecca, Dana, and Ben
