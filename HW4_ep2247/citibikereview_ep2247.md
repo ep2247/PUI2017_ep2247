@@ -24,3 +24,4 @@ HW3_2_yw3447 - > repo that i forked and cloned
 
             
 # FBB ok
+# Was this ever uploade on your classmate's repo?? It is not there nor I can see a pull request. That is part of the assignment!
