@@ -22,3 +22,5 @@ _comments:_
 _**null hypothesis: The average trip length for males is shorter than the average trip length for females.**_
 
 A z-score test is appropriate to compare the means for the two dataset. 
+
+# FBB good
