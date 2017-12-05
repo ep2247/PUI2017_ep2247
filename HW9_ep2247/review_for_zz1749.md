@@ -20,4 +20,10 @@ honesty
 
 you cover topics related but please read the instruction carefully so as to not to loose points for silly reasons!
 
+
+
+You missed: labels are way too small, legend on top of points (lagend also not strictly necessary, and the default 3-points for the legend is extra confusing cause it sits on top of a region where there are points)
+
+
+
 8/10
