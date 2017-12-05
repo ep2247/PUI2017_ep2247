@@ -32,4 +32,4 @@ The labels are too small everywhere.
 
 **esthetics**: the low resolution is both distracting and unappealing
 
-9/10
+8/10
